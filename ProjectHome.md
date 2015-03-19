@@ -1,0 +1,1 @@
+Script for my blog on blogspot
